@@ -41,13 +41,13 @@ This task gave me practical experience with virtual machines, network configurat
 ## Screenshots
 
 ### 1. VirtualBox Manager
-![VirtualBox Manager](01-VirtualBox-Manager.png)
+![VirtualBox Manager](01-VirtualBox-Manager.png.png)
 
 ### 2. NAT Network
-![NAT Network](02-NAT-Network.png)
+![NAT Network](02-NAT-Network.png.png)
 
 ### 3. Kali Linux Desktop
-![Kali Linux Desktop](03-Kali-Linux-Desktop.png)
+![Kali Linux Desktop](03-Kali-Linux-Desktop.png.png)
 
 ### 4. Kali Linux IP Address
-![Kali IP Address](04-Kali-IP-Address.png)
+![Kali IP Address](04-Kali-IP-Address.png.png)
